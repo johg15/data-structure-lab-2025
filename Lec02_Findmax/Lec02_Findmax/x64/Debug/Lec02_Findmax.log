@@ -1,0 +1,3 @@
+﻿  find_max.cpp
+C:\Users\USER\Documents\data-structure-lab-2025\Lec02_Findmax\Lec02_Findmax\find_max.cpp(15,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Lec02_Findmax.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2025\Lec02_Findmax\x64\Debug\Lec02_Findmax.exe
