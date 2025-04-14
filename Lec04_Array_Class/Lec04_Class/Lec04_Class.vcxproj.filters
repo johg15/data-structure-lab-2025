@@ -21,6 +21,12 @@
     <ClInclude Include="Car.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="SportsCar.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Music.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

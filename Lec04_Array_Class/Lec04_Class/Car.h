@@ -3,6 +3,9 @@
 #include <cstring>
 
 class Car {
+private:
+
+
 protected:
 	int speed;				// 加档 (private)
 	char name[40];			// 捞抚 (private)
@@ -27,3 +30,4 @@ public:
 		printf("按眉 林家 = %x\n", this); 
 	}
 };
+
